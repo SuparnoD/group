@@ -5,7 +5,7 @@ __Build Status__
 - Release: [![Releases](https://img.shields.io/github/release/AlexPintea/group/all.svg?style=flat-square)](https://github.com/AlexPintea/group/releases)
 - Codecov: [![codecov](https://codecov.io/gh/AlexPintea/group/branch/master/graph/badge.svg?token=U3KVR6PUQ7)](https://codecov.io/gh/AlexPintea/group)
 
-__Task__
+__Task__ </br>
 An organisation requires reporting on population information. The task is to design and implement a new system to allow easy access to this population information stored in a SQL database.
 
 
